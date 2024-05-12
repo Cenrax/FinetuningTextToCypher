@@ -18,8 +18,8 @@ graph TD
 ```
 
 Future steps:
-[] Convert the model to gguf format
-[] Load the model in LMStudio
-[] Experimentation of loading the model in mobile device
-[] Ran it locally for Cypher generation
+-[X] Convert the model to gguf format
+-[] Load the model in LMStudio
+-[] Experimentation of loading the model in mobile device
+-[] Ran it locally for Cypher generation
 
